@@ -9,6 +9,7 @@ Each contribution should include:
 - A short review (pros & cons)
 
 ## Repository Structure
+```
 ASL_Detection/
 ├── Data/
 ├── Results/
@@ -16,6 +17,7 @@ ASL_Detection/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+```
 
 ## How to contribute
 1. Create a new branch
