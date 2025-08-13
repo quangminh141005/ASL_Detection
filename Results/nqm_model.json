@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.9845924377441406,
+    "loss": 0.058474067598581314,
+    "val_accuracy": 0.9721670150756836,
+    "val_loss": 0.08207602798938751,
+    "model_name": "nguyen quang minh's model"
+}
