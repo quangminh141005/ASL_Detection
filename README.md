@@ -1,4 +1,4 @@
-# Machine Learning Models Repository
+# ASL Machine Learning Models Group project Repository
 A collaborative space for our team (5 members) to upload, compare, and improve machine learning model on ASL dataset(s?)
 
 ## Purpose
