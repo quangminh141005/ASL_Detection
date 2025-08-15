@@ -35,4 +35,4 @@ asl_dataset
 
 ## 4. Example Data
 ### Example Image (W):
-![Example A gesture](ASL_Detection/Dataset/nqm_dataset/asl_dataset/w/hand1_w_bot_seg_5_cropped.jpeg)
+![Example A gesture](asl_dataset/w/hand1_w_bot_seg_5_cropped.jpeg)
