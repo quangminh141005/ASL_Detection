@@ -1,9 +1,9 @@
 # Dataset description
 
 ## 1. Overview 
-**Name:** ASL dataset 
-**Collector:** Nguyen Quang Minh 
-**Source:** [ASL dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset) 
+**Name:** ASL dataset  
+**Collector:** Nguyen Quang Minh  
+**Source:** [ASL dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset)  
 
 ## 2. Structure 
 The dataset is organized into 1 main set.
@@ -28,9 +28,9 @@ asl_dataset
 - **Train:** 2,012 images (80%)
 - **Test:** 503 images (20%)
 
-**Image format:** `.jpg` 
-**Image size (not resized):** 400x400 pixels 
-**Image size (resized):** 64x64 pixels 
+**Image format:** `.jpg`   
+**Image size (not resized):** 400x400 pixels   
+**Image size (resized):** 64x64 pixels   
 
 
 ## 3. Example Data
