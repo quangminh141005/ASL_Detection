@@ -11,7 +11,7 @@ Each contribution should include:
 ## Repository Structure
 ```
 ASL_Detection/
-├── Data/
+├── Dataset/
 ├── Results/
 ├── Models/
 ├── README.md
