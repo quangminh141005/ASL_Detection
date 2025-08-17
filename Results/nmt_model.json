@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.7974137663841248,
+    "loss": 0.5801420211791992,
+    "val_accuracy": 0.7853448390960693,
+    "val_loss": 0.6400770545005798,
+    "model_name": "nguyen minh tuan's model"
+}
