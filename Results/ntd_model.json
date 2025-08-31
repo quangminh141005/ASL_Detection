@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.9821073412895203,
+    "loss": 0.056763291358947754,
+    "val_accuracy": 0.9721670150756836,
+    "val_loss": 0.07825049757957458,
+    "model_name": "nguyen tuan dung's model"
+}
